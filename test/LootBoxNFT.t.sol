@@ -17,9 +17,4 @@ contract LootBoxNFTTest is Test {
         nft.setBaseURI("https://ipfs.io/ipfs/two/");
         assertEq(nft.tokenURI(tokenId), "https://ipfs.io/ipfs/two/1");
     }
-
-    // function testSetNumber(uint256 x) public {
-    //     counter.setNumber(x);
-    //     assertEq(counter.number(), x);
-    // }
 }
