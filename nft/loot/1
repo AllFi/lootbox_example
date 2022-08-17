@@ -1,0 +1,11 @@
+{
+    "name": "Epic Sword",
+    "description": "The best sword in the world!",
+    "image": "https://ipfs.io/ipfs/Qmaj7YV7CtiGrvp4VBPAHNs4suSbUbdHH31M8NPjiMxtio?filename=sword.jpg",
+    "attributes": [
+        {
+            "trait_type": "Attack",
+            "value": 15
+        }
+    ]
+}

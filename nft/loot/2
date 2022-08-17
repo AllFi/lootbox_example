@@ -1,0 +1,11 @@
+{
+    "name": "Legendary Bow",
+    "description": "The best bow in the world!",
+    "image": "https://ipfs.io/ipfs/QmdeG6UXQBP5hdRH9tuGrDJRT14fwbJhkJkW7KzzgE1kte?filename=bow.jpg",
+    "attributes": [
+        {
+            "trait_type": "Attack",
+            "value": 7
+        }
+    ]
+}
