@@ -1,6 +1,10 @@
-# lootbox_example
 ## Prerequisites
 * Install foundry: https://book.getfoundry.sh/getting-started/installation
+
+## Install dependencies
+```
+forge install
+```
 
 ## Build
 ```
